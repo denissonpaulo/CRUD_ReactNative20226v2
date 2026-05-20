@@ -24,7 +24,7 @@ function AppTab() {
                         left: 0,
                         right: 0
                     },
-                    tabBarIconStyle: { display: "nome" }
+                    tabBarIconStyle: { display: "none" }
                 }}
             >
                 <Screen name="AppList" component={AppList}
